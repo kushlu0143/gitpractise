@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D637-3B59
+
+ Directory of C:\Users\Aerra's\Desktop\git practise
+
+02-09-2017  19:28    <DIR>          .
+02-09-2017  19:28    <DIR>          ..
+02-09-2017  19:28                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  373,130,010,624 bytes free
